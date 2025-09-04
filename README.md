@@ -8,31 +8,31 @@ September 2025
 <img width="507" height="334" alt="Screenshot 2025-09-04 at 10 11 45 AM" src="https://github.com/user-attachments/assets/3dbc828d-4e52-410e-9b65-ead2f4f3c552" />
 
 References:
-[Laura Kurgan] (https://c4sr.columbia.edu/projects/plain-sight)
+[Laura Kurgan](https://c4sr.columbia.edu/projects/plain-sight)
 <br>
-[CSR - Conflict Urbanism] (https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/2023/04/28/Those-Who-Live-and-Travel-in-the-Dark.html)
+[CSR - Conflict Urbanism](https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/2023/04/28/Those-Who-Live-and-Travel-in-the-Dark.html)
 <br>
-[Robert Pietrusko] (https://www.warning-office.org/wo-test-sites)
+[Robert Pietrusko](https://www.warning-office.org/wo-test-sites)
 <br>
-[Sam Lavigne] (https://lav.io/projects/street-views/)
+[Sam Lavigne](https://lav.io/projects/street-views/)
 <br>
-[James Bridle] (https://jamesbridle.com/works/every-cctv-camera-cc)
+[James Bridle](https://jamesbridle.com/works/every-cctv-camera-cc)
 <br>
-[Clement Valla] (https://clementvalla.com/work/postcards-from-google-earth/)
+[Clement Valla](https://clementvalla.com/work/postcards-from-google-earth/)
 <br>
-[Dan Miller] (https://dl.acm.org/doi/10.1145/3715668.3736392#:~:text=As%20we%20witness%20the%20unraveling,stored%20the%20files%20%5B9%5D.)
+[Dan Miller](https://dl.acm.org/doi/10.1145/3715668.3736392#:~:text=As%20we%20witness%20the%20unraveling,stored%20the%20files%20%5B9%5D.)
 <br>
-[Mario Santamaria] (https://www.mariosantamaria.net/Emerald-black-latency/)
+[Mario Santamaria](https://www.mariosantamaria.net/Emerald-black-latency/)
 <br>
-[Simon Weckert] (https://www.simonweckert.com/googlemapshacks.html)
+[Simon Weckert](https://www.simonweckert.com/googlemapshacks.html)
 <br>
-[Jenny Odell] (https://www.jennyodell.com/satellite-landscapes.html)
+[Jenny Odell](https://www.jennyodell.com/satellite-landscapes.html)
 <br>
-[Josh Begley] (https://joshbegley.com/)
+[Josh Begley](https://joshbegley.com/)
 <br>
-[WTTDOTM] (https://trafficcamphotobooth.com/animenyc.html)
+[WTTDOTM](https://trafficcamphotobooth.com/animenyc.html)
 <br>
-[Tatu Gustaffsson] (https://stanisland.com/2024/10/08/tatu-gustaffsson-cctv-project-finland/)
+[Tatu Gustaffsson](https://stanisland.com/2024/10/08/tatu-gustaffsson-cctv-project-finland/)
 
 
 
@@ -55,8 +55,19 @@ Database links:
 
 
 Code snippets from Google Earth Engine:
-
-
+[00_SATELLITE](https://code.earthengine.google.com/44720ca4acede92bcb4bc09e2f9d8972)
+<br>
+[01_GEOTIFF](https://code.earthengine.google.com/088b32660841814aa4389cbec7b65a9b)
+<br>
+[03_VIDEO](https://code.earthengine.google.com/918b1c8de8c06681b5871786a26c04fd)
+<br>
+[04_TIME MACHINE](https://code.earthengine.google.co.in/1cf4559cec3aa0cbeb4f7b24511128a9?hideCode=true)
+<br>
+[05_INDEX](https://code.earthengine.google.co.in/67258576368dc0dbc1b59fd080524f5b?hideCode=true)
+<br>
+[06_LST](https://code.earthengine.google.co.in/62a7c8eeddeb40563ef77f0b1ea0c50f?hideCode=true)
+<br>
+[06_WEATHER PLAY](https://code.earthengine.google.co.in/e054df95572742d5e3c054c9d25fad7d?hideCode=true)
 
 ## SCRAPING 💻
 
