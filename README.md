@@ -1,5 +1,6 @@
 # POLIMI_LOL_Mapping
 :earth_asia: :computer:
+September 2025 
 
 <img width="1715" height="992" alt="Screenshot 2025-09-04 at 9 51 46 AM" src="https://github.com/user-attachments/assets/55ededbf-fb2e-47d1-9ec0-51cc7bf24615" />
 
@@ -9,8 +10,29 @@
 References:
 
 
-## CLOUD COMPUTING
-## SCRAPING
+## CLOUD COMPUTING 💻
+
+<img width="1459" alt="Screenshot 2025-02-18 at 2 01 30 AM" src="https://github.com/user-attachments/assets/1736e108-9530-48f6-ae5f-32a578e28f48" />
+
+[Google Earth Engine requires all users to sign-up for an account](https://code.earthengine.google.com/register). This account is linked with Google Cloud and users must create a Google Cloud Project to use the service. 
+- On the Product Registration Page, select Register a Noncommercial or Commercial Cloud project.
+- Next, you need to choose How do you want to use Earth Engine?. Choose the Unpaid usage, click Next. Since we are in Academia provider, we have chosen Unpaid usage → Research & Academia.
+- In the next dialog, choose Create a new Google Cloud Project. Select No organization for Organization and enter a Project-ID. This id needs to be unique. A standard practice is to use the project-ID in the form of ee-<yourusername>. Click CONTINUE TO SUMMARY. If you have never used Google Cloud before, an error message will be displayed with a note You must accept the Cloud Terms of Service before a Cloud Project can be created.
+- Choose your Country and review the Google Cloud Platform Terms of Service and the terms of service of any applicable services and APIs. After reviewing, click AGREE AND CONTINUE.
+- You will be presented with a summary in the Confirm your Cloud project information dialog. Review and click CONFIRM.
+- The project will be registered and you will be redirected to the Code Editor. If you are not redirected automatically, visit the Earth Engine Code Editor.
+
+
+Database links:
+[Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+[GEE Community Catalogue](https://gee-community-catalog.org/)
+
+
+Code snippets from Google Earth Engine:
+
+
+## SCRAPING 💻
+
 An API, or Application Programming Interface, is a set of rules and tools that allows different software applications to communicate with each other. Think of it like a waiter in a restaurant: the waiter is the intermediary that takes your order (your request for information or action), brings it to the kitchen (a software system), and then brings the food (the data or outcome) back to you.
 
 The goal of the tutorial is to transform points gathered through APIs into tiles and arrange them in a grid or video format, creating alternative narratives of geospatial data. At the end of the day everyone will get a starting/basic knowledge of APIs and Python through very simple codes, in order to download satellite images based on latitude and longitude coordinates provided in a CSV file. Unlike the georeferenced multispectral satellite data from Landsat or Sentinel, the imagery retrieved in this workshop lacks embedded geographic metadata and is not suitable for georeferencing, making it ideal for a more non-GIS use and experiments.
