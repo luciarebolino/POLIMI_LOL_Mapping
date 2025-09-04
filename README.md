@@ -8,6 +8,7 @@ September 2025
 <img width="507" height="334" alt="Screenshot 2025-09-04 at 10 11 45 AM" src="https://github.com/user-attachments/assets/3dbc828d-4e52-410e-9b65-ead2f4f3c552" />
 
 References:
+<br>
 [Laura Kurgan](https://c4sr.columbia.edu/projects/plain-sight)
 <br>
 [CSR - Conflict Urbanism](https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/2023/04/28/Those-Who-Live-and-Travel-in-the-Dark.html)
@@ -50,11 +51,13 @@ References:
 
 
 Database links:
+<br>
 [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/landsat) <br>
 [GEE Community Catalogue](https://gee-community-catalog.org/)
 
 
 Code snippets from Google Earth Engine:
+<br>
 [00_SATELLITE](https://code.earthengine.google.com/44720ca4acede92bcb4bc09e2f9d8972)
 <br>
 [01_GEOTIFF](https://code.earthengine.google.com/088b32660841814aa4389cbec7b65a9b)
