@@ -1,5 +1,5 @@
 # POLIMI_LOL_Mapping
-:earth_asia: :computer:
+:earth_asia: 🛰️
 September 2025 
 
 <img width="1715" height="992" alt="Screenshot 2025-09-04 at 9 51 46 AM" src="https://github.com/user-attachments/assets/55ededbf-fb2e-47d1-9ec0-51cc7bf24615" />
@@ -8,6 +8,32 @@ September 2025
 <img width="507" height="334" alt="Screenshot 2025-09-04 at 10 11 45 AM" src="https://github.com/user-attachments/assets/3dbc828d-4e52-410e-9b65-ead2f4f3c552" />
 
 References:
+[Laura Kurgan] (https://c4sr.columbia.edu/projects/plain-sight)
+<br>
+[CSR - Conflict Urbanism] (https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/2023/04/28/Those-Who-Live-and-Travel-in-the-Dark.html)
+<br>
+[Robert Pietrusko] (https://www.warning-office.org/wo-test-sites)
+<br>
+[Sam Lavigne] (https://lav.io/projects/street-views/)
+<br>
+[James Bridle] (https://jamesbridle.com/works/every-cctv-camera-cc)
+<br>
+[Clement Valla] (https://clementvalla.com/work/postcards-from-google-earth/)
+<br>
+[Dan Miller] (https://dl.acm.org/doi/10.1145/3715668.3736392#:~:text=As%20we%20witness%20the%20unraveling,stored%20the%20files%20%5B9%5D.)
+<br>
+[Mario Santamaria] (https://www.mariosantamaria.net/Emerald-black-latency/)
+<br>
+[Simon Weckert] (https://www.simonweckert.com/googlemapshacks.html)
+<br>
+[Jenny Odell] (https://www.jennyodell.com/satellite-landscapes.html)
+<br>
+[Josh Begley] (https://joshbegley.com/)
+<br>
+[WTTDOTM] (https://trafficcamphotobooth.com/animenyc.html)
+<br>
+[Tatu Gustaffsson] (https://stanisland.com/2024/10/08/tatu-gustaffsson-cctv-project-finland/)
+
 
 
 ## CLOUD COMPUTING 💻
@@ -24,11 +50,12 @@ References:
 
 
 Database links:
-[Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+[Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/landsat) <br>
 [GEE Community Catalogue](https://gee-community-catalog.org/)
 
 
 Code snippets from Google Earth Engine:
+
 
 
 ## SCRAPING 💻
